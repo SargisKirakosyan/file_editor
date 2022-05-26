@@ -1,0 +1,17 @@
+body {
+    font-family: Arian AMU !important;
+}
+
+.btn {
+    margin-top: 10px !important;
+}
+
+.CodeMirror {
+    height: 500px !important;
+}
+
+@media only print {
+    .btn {
+        display: none !important;
+    }
+}
